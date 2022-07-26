@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "forum-api", "forum-api.csproj", "{25998B11-79CF-4E15-A387-CC7824713F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forum-apiTests", "..\forum-apiTests\forum-apiTests.csproj", "{BE12067D-E112-4016-8C5F-0AA9E8D2A03D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25998B11-79CF-4E15-A387-CC7824713F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25998B11-79CF-4E15-A387-CC7824713F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25998B11-79CF-4E15-A387-CC7824713F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25998B11-79CF-4E15-A387-CC7824713F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE12067D-E112-4016-8C5F-0AA9E8D2A03D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE12067D-E112-4016-8C5F-0AA9E8D2A03D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE12067D-E112-4016-8C5F-0AA9E8D2A03D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE12067D-E112-4016-8C5F-0AA9E8D2A03D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C13A9DA-1DC3-4B09-9B7B-689597D8CC03}
+	EndGlobalSection
+EndGlobal
